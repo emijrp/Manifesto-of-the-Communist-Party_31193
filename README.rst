@@ -2,7 +2,6 @@
 Manifesto of the Communist Party
 =====================
 
-
 This is a git repository of the source files for the book Manifesto of the Communist Party by Engels, Friedrich Marx, Karl. This book is in the Public Domain, see the LICENSE file for details.
 
 Found an error?
